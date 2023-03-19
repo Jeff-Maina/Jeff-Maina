@@ -6,5 +6,5 @@
        alt="snake" /></a>
 </div>
 <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Jeff-Maina}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Jeffy2k}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
