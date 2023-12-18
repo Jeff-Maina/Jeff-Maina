@@ -1,4 +1,3 @@
-<h1 align="center"><b>Hi , I'm Jeff</b></h1>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
